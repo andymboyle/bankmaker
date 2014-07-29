@@ -31,6 +31,7 @@ You type in Info and then give a specific name. It'll return you all the informa
 You type in Delete and then a specific name of a card. It'll delete this card. If that card doesn't exist, it returns that it doesn't exist.
 
 `All`
+
 Type in All and it will display all the cards. If there are no cards, it will display that.
 
 ## Testing
