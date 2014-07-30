@@ -1,6 +1,6 @@
 # Bankmaker
 
-I wanted to learn more about taking user inputs on the command line and doing things with them, so I made a silly little app that keeps track of credit card transactions. It's not perfect, but it's kind of nifty.
+Keep track of simple credit card transactions from a Django management command.
 
 ## Pip Install
 
